@@ -6,8 +6,6 @@
 
 A modern data analysis platform with dual AI engine support and interactive visualization capabilities.
 
-🔗 [Live Demo](#) | 📥 [Download](#) | 📚 [Documentation](#)
-
 ## 🌟 Key Features
 
 - **Dual AI Engine** 🧠
