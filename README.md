@@ -1,1 +1,1 @@
-# Groq Powered Chatbot
+# Groq Powered Chatbot. Mainly used for Data Analytics tasks.
