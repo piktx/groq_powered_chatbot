@@ -1,1 +1,2 @@
-# Groq Powered Chatbot. Mainly used for Data Analytics tasks.
+# Groq Powered Chatbot
+## Data Analytics platform using GROQ AI model and the UI is made using streamlit.
